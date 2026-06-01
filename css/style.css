@@ -58,6 +58,7 @@ p{
     display: flex;
     flex-direction: row;
     border-radius: 32px;
+    margin-bottom: 64px;
 }
 
 
